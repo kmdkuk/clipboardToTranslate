@@ -1,0 +1,3 @@
+#! /usr/bin/env ruby
+require "../clipboard_to_translate.rb"
+ClipboardToTranslate::CLI.run
